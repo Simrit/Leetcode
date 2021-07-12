@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="o2-release" />
+      <option name="name" value="o2-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/o2-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rcc-releases" />
+      <option name="name" value="rcc-releases" />
+      <option name="url" value="https://edge.artifactory.ouroath.com:4443/artifactory/rcc-local-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-libs-release" />
+      <option name="name" value="oath-libs-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="profile-services" />
+      <option name="name" value="profile-services" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/profile-services" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-maven-local-snapshot" />
+      <option name="name" value="oath-maven-local-snapshot" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/maven-local-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="DynamoDbLocal Repository" />
+      <option name="name" value="DynamoDbLocal Repository" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/mulesoft-amazonaws/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-libs-snapshot" />
+      <option name="name" value="oath-libs-snapshot" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="onemobile-snapshot" />
+      <option name="name" value="onemobile-snapshot" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/onemobile-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tnv-maven-local-release" />
+      <option name="name" value="tnv-maven-local-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/tnv-maven-local-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-maven-dmp-us-east-1-local" />
+      <option name="name" value="oath-maven-dmp-us-east-1-local" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/maven-dmp-us-east-1-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="usm-java" />
+      <option name="name" value="usm-java" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/usm_java/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tnv-maven-local-snapshot" />
+      <option name="name" value="tnv-maven-local-snapshot" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/tnv-maven-local-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="unified_targeting_generic" />
+      <option name="name" value="unified_targeting_generic" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/unified_targeting_generic" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="identity-releases" />
+      <option name="name" value="identity-releases" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/identity-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="data-highway-maven-local-release" />
+      <option name="name" value="data-highway-maven-local-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/data-highway-maven-local-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-crs-central" />
+      <option name="name" value="oath-crs-central" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/crs-central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="identitygraph-local-release" />
+      <option name="name" value="artifactory.ouroath.com-releases" />
+      <option name="url" value="https://edge.artifactory.ouroath.com:4443/artifactory/identitygraph-local-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-adv-ds-maven-local-release" />
+      <option name="name" value="oath-adv-ds-maven-local-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/adv-ds-maven-local-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-maven-local-release" />
+      <option name="name" value="oath-maven-local-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/maven-local-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Tacocorp" />
+      <option name="name" value="Tacocorp" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/maven-tacocorp-release-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="yamas-maven-local-release" />
+      <option name="name" value="yamas-maven-local-release" />
+      <option name="url" value="https://edge.artifactory.ouroath.com:4443/artifactory/yamas-maven-local-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="targeting-dublin-maven-local" />
+      <option name="name" value="targeting-dublin-maven-local" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/targeting-dublin-maven-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="java-platform-maven-release" />
+      <option name="name" value="java-platform-maven-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/java-platform-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oath-guce-releases" />
+      <option name="name" value="oath-guce-releases" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/guce-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-release" />
+      <option name="name" value="maven-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ssp-release" />
+      <option name="name" value="ssp-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/ssp-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="onemobile-central" />
+      <option name="name" value="onemobile-central" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/onemobile-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aol-advertising-local" />
+      <option name="name" value="aol-advertising-local" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/aol-advertising-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="targeting-local-release" />
+      <option name="name" value="targeting-local-release" />
+      <option name="url" value="https://artifactory.ouroath.com/artifactory/targeting-local-release" />
+    </remote-repository>
+  </component>
+</project>
